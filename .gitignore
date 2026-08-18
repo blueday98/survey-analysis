@@ -1,0 +1,12 @@
+# 개인정보 포함 원본 설문
+data/raw/
+
+# Python / Jupyter
+.venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# 환경변수
+.env
+.DS_Store
